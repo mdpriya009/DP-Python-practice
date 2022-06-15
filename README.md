@@ -1,1 +1,1 @@
-# DP-s-Python-practice
+# DP-Python-practice
